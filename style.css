@@ -1,0 +1,62 @@
+#show{
+	font-size: 30px;
+	text-align: center;
+	background: orange;
+	font-family: arial;
+	font-weight: bold;
+	color: white;
+	padding: 20px;
+	width: 500px;
+	border-radius: 10px;
+	border: solid #343 5px;
+
+
+
+}
+body{
+
+	background: #76a6a6;
+}
+h3{
+	font-family: arial;
+	font-weight: bold;
+
+
+}
+span{
+	font-family: arial;
+	color: #313838;
+}
+
+.body{
+	padding-left: 85px;
+}
+
+.showContainer{
+	width: 100%;
+	margin-left: 450px;
+
+}
+button.myButton {
+    background: tomato;
+    width: 150px;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+    border: solid #343 5px;
+    cursor: pointer;
+    font-size: 20px;
+    color: white;
+    font-weight: bolder;
+		margin-right: 30px;
+
+}
+.myButton.G, .myButton.N, .myButton.U{
+	margin-right: 0;
+}
+
+.anim{
+	box-shadow: 0 15px 18px black;
+	opacity: 0.90;
+	transition: 0.3s;
+}
