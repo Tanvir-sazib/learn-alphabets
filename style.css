@@ -51,9 +51,9 @@ button.myButton {
 		margin-right: 30px;
 
 }
-.myButton.G, .myButton.N, .myButton.U{
+/*.myButton.G, .myButton.N, .myButton.U{
 	margin-right: 0;
-}
+}*/
 
 .anim{
 	box-shadow: 0 15px 18px black;
